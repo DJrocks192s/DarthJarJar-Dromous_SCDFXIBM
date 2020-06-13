@@ -20,7 +20,7 @@ the above image has been created using python libraries pandas, numpy and folium
 
 ## Pitch video:
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/2zeULYH6-kI)
+[![Watch the video](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/pitch%20video%20starting%20screen.png)](https://youtu.be/2zeULYH6-kI)
 
 #### Please click on the logo to check out the pitch video!!!
 

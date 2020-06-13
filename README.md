@@ -14,7 +14,7 @@ Seeing that there were 7680 car accidents in Singapore in 2018, we decided to he
 
 ---
 
-the above image has been created using python libraries pandas, numpy and folium in order to create a map centred in Singapore with markers indicating positions of cameras placed on Singapore highways. The data for camera positions has been taken from data.gov.sg and the code written to generate the map is also present at [Camera Map Singapore Code](https://www.google.com)
+the above image has been created using python libraries pandas, numpy and folium in order to create a map centred in Singapore with markers indicating positions of cameras placed on Singapore highways. The data for camera positions has been taken from data.gov.sg and the code written to generate the map is also present at [Camera Map Singapore Code](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Camera%20Map%20Singapore%20Code.ipynb)
 
 ---
 

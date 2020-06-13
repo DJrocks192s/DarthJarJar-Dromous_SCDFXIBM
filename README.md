@@ -38,6 +38,9 @@ www.google.com
 
 ## Project Roadmap
 
+![alt text][logo]
+
+[logo]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Dromous%20Roadmap.jpg "Dromous Roadmap"
 ---
 
 ## Getting Started

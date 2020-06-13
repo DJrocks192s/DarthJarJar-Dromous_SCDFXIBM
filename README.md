@@ -20,7 +20,9 @@ the above image has been created using python libraries pandas, numpy and folium
 
 ## Pitch video:
 
-[Pitch Video](https://www.powtoon.com/s/eJQDamfhRVJ/1/m)
+<a href="https://youtu.be/2zeULYH6-kI
+" target="_blank"><img src="https://youtu.be/2zeULYH6-kI" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 

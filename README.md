@@ -45,4 +45,4 @@ www.google.com
 ---
 
 ## Technology used to build Dromous
-
+The code used to train our model is given [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Visual%20Recognition%20Model%20Code.ipynb). We have only included the training of one image adding the object "car" to a visible car in the image. We used similar code for around 150 images that we used to train the model.

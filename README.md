@@ -14,6 +14,10 @@ Seeing that there were 7680 car accidents in Singapore in 2018, we decided to he
 
 ---
 
+the above image has been created using python libraries pandas, numpy and folium in order to create a map centred in Singapore with markers indicating positions of cameras placed on Singapore highways. The data for camera positions has been taken from data.gov.sg and the code written to generate the map is also present at [Camera Map Singapore Code](https://www.google.com)
+
+---
+
 ## Pitch video:
 www.google.com
 
@@ -21,7 +25,9 @@ www.google.com
 
 ## Architecture
 
+![alt text][logo]
 
+[logo]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Dromous%20Architecture(1).jpg "Dromous Architecture"
 ---
 
 ## Link to the detailed solution

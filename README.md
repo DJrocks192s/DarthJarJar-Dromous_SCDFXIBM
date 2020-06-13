@@ -22,8 +22,6 @@ the above image has been created using python libraries pandas, numpy and folium
 
 [![Watch the video](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/pitch%20video%20starting%20screen.png)](https://youtu.be/2zeULYH6-kI)
 
-#### Please click on the logo to check out the pitch video!!!
-
 ---
 
 ## Architecture

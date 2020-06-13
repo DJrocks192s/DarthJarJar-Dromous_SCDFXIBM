@@ -24,6 +24,8 @@ the above image has been created using python libraries pandas, numpy and folium
 " target="_blank"><img src="https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Logo.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+#### Please click on the logo to check out the pitch video!!!
+
 ---
 
 ## Architecture

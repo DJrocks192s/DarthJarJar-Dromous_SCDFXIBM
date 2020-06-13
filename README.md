@@ -10,3 +10,7 @@ Seeing that there were 7680 car accidents in Singapore in 2018, we decided to he
 www.google.com
 
 ## Architecture
+![alt text][logo]
+
+[logo]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Dromous%20Architecture.jpg "Dromous Architecture"
+

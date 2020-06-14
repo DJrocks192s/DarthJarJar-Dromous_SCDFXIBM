@@ -3,12 +3,21 @@ A life saving application designed to automatically detect road accidents.
 
 ---
 
-## Short description of the problem and the idea:
-In 2018,there were a total 7680 car accidents in Singapore - a shocking figure! Therefore, we decided to help the victims of these tragic incidents by creating Dromous (Greek for traffic). Dromous employs models created using Watson Machine Learning and Watson Visual Recognition in order to differentiate cars from other objects captured by cameras. The cameras will be connected using Wifi receiver to phone and hence establishing a connection to the cloud. This will allow the cameras to transmit data to the visual recognition model on the cloud (use of IoT), for the AI to determine the passing by of cars. A SD card is also connected to the camera so that the recording never stops even when the phone is not connected via Wifi. The AI model is also trained with multpile images and types of car crashes which it can detect from camera footage and automatically alert SCDF to provide immediate support for the victims and hence save the lives of those involved.
+## Short Description:
 
----
+### The Problem:
 
-the above image has been created using python libraries pandas, numpy and folium in order to create a map centred in Singapore with markers indicating positions of cameras placed on Singapore highways. The data for camera positions has been taken from data.gov.sg and the code written to generate the map is also present at [Camera Map Singapore Code](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%20Map%20Singapore%20Code.ipynb)
+In 2018,there were almost 8000 road casualties in Singapore. Furthermore, Singapore has a road fatality rate of 2.8%, which is higher than many other large cities, more than double of Tokyo's in fact. A big part of the problem comes from the delay between accident and aid. In life-threatening situations, every second makes a difference, and the time between an accident actually occuring, and the emergency services being called up, either by a victim or a witness, is a large portion of that.
+
+### The Solution
+
+We wanted to implement a system that could cut out that time entirely, by automatically detecting road accidents. Therefore, our team (Darth Jar Jar) of 4 high school students (Samud Suhas Shetty, Devam Jain, Preetish Juneja and Madhav Lodha), decided to create Dromous. Our solution is an AI-enabled service that automatically detects road accidents, and alerts the relevant authorities.
+
+Our solution is made up of four components:
+1. Hardware, in the form of our self-designed plug-in module to in-car cameras, and pre-existing on road cameras
+2. Software, in the form of the IBM Watson Machine Learning and Watson Visual Recognition systems
+3. Python code, written to identify the location of crashes based on the location of on-road cameras
+4. A web app, to signal the end user of the site, time and confidence level of the occurunce of an accident
 
 ---
 

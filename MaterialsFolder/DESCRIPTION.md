@@ -18,5 +18,9 @@ car cameras, and allows the video from the camera to be streamed using mobile da
 cost of the components is SGD 25. This, along with its compact nature, and the fact that in-car cameras are already prevalent,
 make it a feasible solution.
 
-![Picture1](MaterialsFolder/Camera 1.png)
-![Picture2](MaterialsFolder/Camera 2.png)
+![alt text][Camera1]
+[Camera1]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%201.png "Camera 1"
+
+![alt text][Camera2]
+[Camera2]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%202.png "Camera 2"
+

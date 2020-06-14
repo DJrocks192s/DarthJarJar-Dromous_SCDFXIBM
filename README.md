@@ -10,17 +10,17 @@ In 2018,there were a total 7680 car accidents in Singapore - a shocking figure! 
 
 ![alt text][logo1]
 
-[logo1]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Singapore%20Camera%20Map.png "Map"
+[logo1]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Singapore%20Camera%20Map.png "Map"
 
 ---
 
-the above image has been created using python libraries pandas, numpy and folium in order to create a map centred in Singapore with markers indicating positions of cameras placed on Singapore highways. The data for camera positions has been taken from data.gov.sg and the code written to generate the map is also present at [Camera Map Singapore Code](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Camera%20Map%20Singapore%20Code.ipynb)
+the above image has been created using python libraries pandas, numpy and folium in order to create a map centred in Singapore with markers indicating positions of cameras placed on Singapore highways. The data for camera positions has been taken from data.gov.sg and the code written to generate the map is also present at [Camera Map Singapore Code](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%20Map%20Singapore%20Code.ipynb)
 
 ---
 
 ## Pitch video:
 
-[![Watch the video](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/pitch%20video%20starting%20screen.png)](https://youtu.be/2zeULYH6-kI)
+[![Watch the video](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/pitch%20video%20starting%20screen.png)](https://youtu.be/2zeULYH6-kI)
 
 ---
 
@@ -28,7 +28,7 @@ the above image has been created using python libraries pandas, numpy and folium
 
 ![alt text][logo]
 
-[logo]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Dromous%20Architecture(1).jpg "Dromous Architecture"
+[logo]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Architecture(1).jpg "Dromous Architecture"
 ---
 
 ## Link to the detailed solution
@@ -40,7 +40,7 @@ www.google.com
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Dromous%20Roadmap.jpg "Dromous Roadmap"
+[logo2]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Roadmap.jpg "Dromous Roadmap"
 
 ---
 
@@ -49,4 +49,4 @@ www.google.com
 ---
 
 ## Technology used to build Dromous
-The code used to train our model is given [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/Visual%20Recognition%20Model%20Code.ipynb). We have only included the training of one image adding the object "car" to a visible car in the image. We used similar code for around 150 images that we used to train the model.
+The code used to train our model is given [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Visual%20Recognition%20Model%20Code.ipynb). We have only included the training of one image adding the object "car" to a visible car in the image. We used similar code for around 150 images that we used to train the model.

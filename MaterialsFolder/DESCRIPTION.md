@@ -41,7 +41,7 @@ The IBM solution that we found best suits our needs was the Visual Image Recogni
 
 [Screenshot]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Screenshot%202020-06-13%20at%2011.47.18%20PM.png "Screenshot"
 
-The We believe that with further expertise we will be able to train it to identify crashed vehicles from regular ones. Our AI is constantly learning and improving as we feed it images, and the more time we give it, the better it will get. We receieve the data for the AI from our system of in-car and on-road cameras, which the AI can analyse, and identify certain objects with a confidence level. If the confidence level for an accident is higher than a threshold, it wil send a signal to our web app, and alert the end user (SCDF) of an accident. This is the crux of our project.
+We believe that with further expertise we will be able to train it to identify crashed vehicles from regular ones. Our AI is constantly learning and improving as we feed it images, and the more time we give it, the better it will get. We receieve the data for the AI from our system of in-car and on-road cameras, which the AI can analyse, and identify certain objects with a confidence level. If the confidence level for an accident is higher than a threshold, it wil send a signal to our web app, and alert the end user (SCDF) of an accident. This is the crux of our project.
 
 # 3. Code
 

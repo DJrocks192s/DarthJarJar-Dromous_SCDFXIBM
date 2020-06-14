@@ -7,11 +7,11 @@ A life saving application designed to automatically detect road accidents.
 
 ### The Problem:
 
-In 2018,there were almost 8000 road casualties in Singapore. Furthermore, Singapore has a road fatality rate of 2.8%, which is higher than many other large cities, more than double of Tokyo's in fact. A big part of the problem comes from the delay between accident and aid. In life-threatening situations, every second makes a difference, and the time between an accident actually occuring, and the emergency services being called up, either by a victim or a witness, is a large portion of that.
+In 2018,there were almost 8000 road casualties in Singapore. Furthermore, Singapore has a road fatality rate of 2.8%, which is higher than many other large cities, more than double of Tokyo's, in fact. A big part of the problem comes from the delay between accident and aid. In life-threatening situations, every second makes a difference, and the time between an accident actually occuring, and the emergency services being called up, either by a victim or a witness, is a large portion of that.
 
 ### The Solution
 
-We wanted to implement a system that could cut out that time entirely, by automatically detecting road accidents. Therefore, our team (Darth Jar Jar) of 4 high school students (Samud Suhas Shetty, Devam Jain, Preetish Juneja and Madhav Lodha), decided to create Dromous. Our solution is an AI-enabled service that automatically detects road accidents, and alerts the relevant authorities.
+We wanted to implement a system that could cut out that time entirely, by automatically detecting road accidents, and alerting emergency services. Therefore, our team (Darth Jar Jar) of 4 high school students (Samud Suhas Shetty, Devam Jain, Preetish Juneja and Madhav Lodha), decided to create Dromous. Our solution is an AI-enabled service that automatically detects road accidents, and alerts the relevant authorities.
 
 Our solution is made up of four components:
 1. Hardware, in the form of our self-designed plug-in module to in-car cameras, and pre-existing on road cameras

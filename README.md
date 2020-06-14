@@ -1,5 +1,5 @@
 # DarthJarJar-Dromous_SCDFXIBM
-A life saving application designed to automatically detect road accidents.
+A life saving application that "Integrates With a Smart Environment" designed to automatically detect road accidents.
 
 ---
 

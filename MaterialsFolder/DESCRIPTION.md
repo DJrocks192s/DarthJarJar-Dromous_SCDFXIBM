@@ -63,7 +63,17 @@ In order to display the output of our system to the end user, SCDF, in a manner 
 
 This is the layout of our web app, which will show location, confidence level, time detected, and images retrieved from the on-road and in-car cameras detecting the accident. 
 
+# Future Plans
+
+We have thought about and detailed a future course of action for our project, in order to maximise its utility and efficiency in the future, should our project be successful. This has been displayed in the roadmap, which is shown below.
+
+![alt text][logo999]
+
+[logo999]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Roadmap.jpg "lolol"
+
+In addition to the aspects shown above, we would also like to incorporate TensorFlow into the system, so that our AI can analyse videos, rather than sampling them and analysing images.
+
 # Conclusion
 
-In conclusion, our system has been designed with one goal in mind. Saving lives. Our execution of this goal is through automating the system of alerting the authourities about road accidents. We believe that by shaving off the minutes of delay between an accident occuring, and the first call for 995 (especially when accidents happen in situations where the accident happens in isolation, the victim is unconcious, or no motorists stop to check for the victim's safety), we can have a significant impact on the fatality rate of road accidents, and reduce the chance of chronic injuries in Singapore
+In conclusion, our system has been designed with one goal in mind. Saving lives. Our execution of this goal is through automating the system of alerting the authourities about road accidents. We believe that by shaving off the minutes of delay between an accident occuring, and the first call for 995 (especially when accidents happen in situations where the accident happens in isolation, the victim is unconcious, or no motorists stop to check for the victim's safety), we can have a significant impact on the fatality rate of road accidents, and reduce the chance of chronic injuries in Singapore. This is how Dromous integrates software with a smart environment to solve an issue.
 

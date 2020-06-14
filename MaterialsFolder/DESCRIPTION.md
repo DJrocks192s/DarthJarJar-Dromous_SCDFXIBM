@@ -57,9 +57,9 @@ The code we wrote for this can be found on this [link(Camera Map Singapore Code)
 
 In order to display the output of our system to the end user, SCDF, in a manner that is precise, yet has enough information to co-ordinate a response, while also being instantaneous (as that is the premise of our whole project), led us to mock up a web app.
 
-![alt text][logo1]
+![alt text][logo999]
 
-[logo1]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Website.jpg "Map"
+[logo999]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Website.jpg "lolol"
 
 This is the layout of our web app, which will show location, confidence level, time detected, and images retrieved from the on-road and in-car cameras detecting the accident. 
 

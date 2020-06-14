@@ -48,7 +48,12 @@ Our solution is made up of four components:
 ---
 
 ## Getting Started
-##### The code used to train our model is given [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Visual%20Recognition%20Model%20Code.ipynb). We have only included the training of one image adding the object "car" to a visible car in the image. We used similar code for around 150 images that we used to train the model.
+
+##### In order to see a sample of the working of our AI model, follow the link [here](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/d7e670d3-e6a6-42df-b14f-5b59d4f7bf80/view/objects?project_id=1fabf3ad-01f9-47c6-8594-bede42f9a743&training_definition_id=036b6927-e955-4e63-8763-ccfa3e4cf1a5&context=wdp), and go to the Test tab. From there, insert an image of cars on the highway, such as the one you can find [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/ch1.jpg). You should see that the AI identifies vehicles and differentiates them from other objects.
+
+To view our hardware model for the in-car camera, you can follow [this link](https://a360.co/3hsN7vt). Please be patient as the site takes time to load.
+
+To view the location software, follow [this link](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%20Map%20Singapore%20Code.ipynb). With this you should be able to see an interactive map of road cameras in Singapore, with clickable camera locations. These will indicate the location of an accident if any of the cameras identify one.
 ---
 
 ## Technology used to build Dromous
@@ -56,5 +61,5 @@ Technologies used to build the software include:
  1. [IBM Watson Visual Recognition Model](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/d7e670d3-e6a6-42df-b14f-5b59d4f7bf80/view/objects?project_id=1fabf3ad-01f9-47c6-8594-bede42f9a743&training_definition_id=036b6927-e955-4e63-8763-ccfa3e4cf1a5&context=wdp)
  2. [IBM Watson Machine Learning Model](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/683f27e4-c6ca-494b-b6fd-2c21ad492626/view?projectid=1fabf3ad-01f9-47c6-8594-bede42f9a743&context=wdp)
 3. [Fusion 360 (CAD software)(Please be patient for it to load)](https://a360.co/3hsN7vt)
-4. [NodeRED App](https://drive.google.com/drive/folders/1Q5gRBJs6PpXVmlbyriSBuKN01Wwnql15?usp=sharing)
+4. [NodeRED App Attempt](https://drive.google.com/drive/folders/1Q5gRBJs6PpXVmlbyriSBuKN01Wwnql15?usp=sharing)
 5. [IBM Internet of Things Platform](https://developer.ibm.com/technologies/iot/tutorials/how-to-create-an-internet-of-things-platform-starter-application/)

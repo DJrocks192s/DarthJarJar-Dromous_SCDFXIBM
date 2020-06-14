@@ -19,8 +19,10 @@ cost of the components is SGD 25. This, along with its compact nature, and the f
 make it a feasible solution.
 
 ![alt text][Camera1]
+
 [Camera1]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%201.png "Camera 1"
 
 ![alt text][Camera2]
+
 [Camera2]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%202.png "Camera 2"
 

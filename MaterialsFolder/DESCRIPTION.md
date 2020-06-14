@@ -67,9 +67,9 @@ This is the layout of our web app, which will show location, confidence level, t
 
 We have thought about and detailed a future course of action for our project, in order to maximise its utility and efficiency in the future, should our project be successful. This has been displayed in the roadmap, which is shown below.
 
-![alt text][logo999]
+![alt text][logo99]
 
-[logo999]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Roadmap.jpg "lolol"
+[logo99]: https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Dromous%20Roadmap.jpg "loll"
 
 In addition to the aspects shown above, we would also like to incorporate TensorFlow into the system, so that our AI can analyse videos, rather than sampling them and analysing images.
 

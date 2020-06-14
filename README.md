@@ -55,3 +55,4 @@ The code used to train our model is given [here](https://github.com/DJrocks192s/
 Technologies used to build the software include:
  1. [IBM Watson Visual Recognition Model](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/d7e670d3-e6a6-42df-b14f-5b59d4f7bf80/view/objects?project_id=1fabf3ad-01f9-47c6-8594-bede42f9a743&training_definition_id=036b6927-e955-4e63-8763-ccfa3e4cf1a5&context=wdp)
  2. [IBM Watson Machine Learning Model](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/683f27e4-c6ca-494b-b6fd-2c21ad492626/view?projectid=1fabf3ad-01f9-47c6-8594-bede42f9a743&context=wdp)
+3. [Fusion 360 (CAD software)](https://a360.co/2B3X41y)

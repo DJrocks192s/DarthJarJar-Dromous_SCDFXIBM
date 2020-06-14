@@ -51,9 +51,9 @@ Our solution is made up of four components:
 
 ##### In order to see a sample of the working of our AI model, follow the link [here](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/d7e670d3-e6a6-42df-b14f-5b59d4f7bf80/view/objects?project_id=1fabf3ad-01f9-47c6-8594-bede42f9a743&training_definition_id=036b6927-e955-4e63-8763-ccfa3e4cf1a5&context=wdp), and go to the Test tab. From there, insert an image of cars on the highway, such as the one you can find [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/ch1.jpg). You should see that the AI identifies vehicles and differentiates them from other objects.
 
-To view our hardware model for the in-car camera, you can follow [this link](https://a360.co/3hsN7vt). Please be patient as the site takes time to load.
+##### To view our hardware model for the in-car camera, you can follow [this link](https://a360.co/3hsN7vt). Please be patient as the site takes time to load.
 
-To view the location software, follow [this link](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%20Map%20Singapore%20Code.ipynb). With this you should be able to see an interactive map of road cameras in Singapore, with clickable camera locations. These will indicate the location of an accident if any of the cameras identify one.
+##### To view the location software, follow [this link](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/Camera%20Map%20Singapore%20Code.ipynb). With this you should be able to see an interactive map of road cameras in Singapore, with clickable camera locations. These will indicate the location of an accident if any of the cameras identify one.
 ---
 
 ## Technology used to build Dromous

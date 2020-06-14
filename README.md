@@ -7,7 +7,7 @@ A life saving application that "Integrates With a Smart Environment" designed to
 
 ### The Problem:
 
-In 2018,there were almost 8000 road casualties in Singapore. Furthermore, Singapore has a road fatality rate of 2.8%, which is higher than many other large cities, more than double of Tokyo's, in fact. A big part of the problem comes from the delay between accident and aid. In life-threatening situations, every second makes a difference, and the time between an accident actually occuring, and the emergency services being called up, either by a victim or a witness, is a large portion of that.
+In 2018, there were almost 8000 road casualties in Singapore. Furthermore, Singapore has a road fatality rate of 2.8%, which is higher than many other large cities, more than double of Tokyo's, in fact. A big part of the problem comes from the delay between accident and aid. In life-threatening situations, every second makes a difference, and the time between an accident actually occuring, and the emergency services being called up, either by a victim or a witness, is a large portion of that.
 
 ### The Solution
 
@@ -49,7 +49,7 @@ Our solution is made up of four components:
 
 ## Getting Started
 
-##### In order to see a sample of the working of our AI model, follow the link [here](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/d7e670d3-e6a6-42df-b14f-5b59d4f7bf80/view/objects?project_id=1fabf3ad-01f9-47c6-8594-bede42f9a743&training_definition_id=036b6927-e955-4e63-8763-ccfa3e4cf1a5&context=wdp), and go to the Test tab. Please note that you must accept the invitation to collaborate on the project (SCDFXIBM_Hackathon_TeamDarthJarJar) from preetishjuneja2004@gmail.com before being able to access it.From there, insert an image of cars on the highway, such as the one you can find [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/ch1.jpg). You should see that the AI identifies vehicles and differentiates them from other objects.
+##### In order to see a sample of the working of our AI model, follow the link [here](https://dataplatform.cloud.ibm.com/studio/watson-vision-combined/d7e670d3-e6a6-42df-b14f-5b59d4f7bf80/view/objects?project_id=1fabf3ad-01f9-47c6-8594-bede42f9a743&training_definition_id=036b6927-e955-4e63-8763-ccfa3e4cf1a5&context=wdp), and go to the Test tab. Please note that you must accept the invitation to collaborate on the project (SCDFXIBM_Hackathon_TeamDarthJarJar) from preetishjuneja2004@gmail.com before being able to access it. From there, insert an image of cars on the highway, such as the one you can find [here](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/ch1.jpg). You should see that the AI identifies vehicles and differentiates them from other objects.
 
 ##### To view our hardware model for the in-car camera, you can follow [this link](https://a360.co/3hsN7vt). Please be patient as the site takes time to load.
 

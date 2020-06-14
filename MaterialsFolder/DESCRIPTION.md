@@ -19,7 +19,7 @@ For this project, we wanted to leverage as much existing hardware as possible, i
 and maximize feasability. However, we also wanted to have multiple data points from which our AI could detect accidents, 
 for maximum accuracy. To strike a balance between feasibility, cost and accuracy, we developed a bi-faceted solution. 
 We designed our own in-car camera plug-in module, using CAD models of pre-excisting hardware. This module plugs into the SD card slot of in-
-car cameras, and allows the video from the camera to be streamed using mobile data to an IoT software, so that our AI can access it. The total
+car cameras, and allows the video from the camera to be streamed using mobile data to an IoT software (when the phone is not connected an existing microsd card slot will be used to record the data), so that our AI can access it. The total
 cost of the components is SGD 25. This, along with its compact nature, and the fact that in-car cameras are already prevalent,
 make it a feasible solution.
 

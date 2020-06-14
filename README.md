@@ -26,7 +26,7 @@ the above image has been created using python libraries pandas, numpy and folium
 ---
 
 ## Link to the detailed solution
-www.google.com
+https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/DESCRIPTION.md
 
 ---
 

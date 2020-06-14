@@ -35,7 +35,7 @@ Our solution is made up of four components:
 ---
 
 ## Link to the detailed solution
-https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/DESCRIPTION.md
+[DESCRIPTION](https://github.com/DJrocks192s/DarthJarJar-Dromous_SCDFXIBM/blob/master/MaterialsFolder/DESCRIPTION.md)
 
 ---
 
